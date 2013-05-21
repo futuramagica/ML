@@ -14,6 +14,8 @@
 
     <modules>
         <module>linreg</module>
+        <module>linreg-scala</module>
+        <module>logreg</module>
     </modules>
 
 </project>
